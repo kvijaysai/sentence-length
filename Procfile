@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run sentence_length_frequency_app.py
